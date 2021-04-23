@@ -10,4 +10,5 @@
 * Microsoft Bing market analysis. POSTER :)
 
 ###### You Go City App ######
+
 ![alt text](https://github.com/LeadShuriken/research-papers-posters/blob/master/IMG_0207.JPG?raw=true)
