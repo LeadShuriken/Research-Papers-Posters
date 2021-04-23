@@ -1,4 +1,4 @@
-## Research Papers and Posters #
+## Research Papers Posters Stuff #
 
 ### Clutter&Realism in CGI ###
 * An investigation on the effect of clutter on the perceived realism of 3d computer generated renderings AKA "My first masters thesis".
@@ -9,5 +9,5 @@
 ### Microsoft Bing ###
 * Microsoft Bing market analysis. POSTER :)
 
-###### Change log ######
-* [releases] Added on 09-10-2016
+###### You Go City App ######
+![alt text](https://github.com/LeadShuriken/research-papers-posters/blob/master/IMG_0207.JPG?raw=true)
